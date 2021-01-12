@@ -24,7 +24,9 @@ C:\xampp\htdocs
 - Ambiente quase pronto, vamos mover os driver sqlsrv para a pasta do PHP:
 
 php_pdo_sqlsrv_74_ts_x64.dll
+
 php_pdo_sqlsrv_74_ts_x64.dll
+
 - DE:
 ```sh
 C:\xampp\htdocs\chartjs-query\sqldriver
