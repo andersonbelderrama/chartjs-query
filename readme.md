@@ -7,7 +7,7 @@
 Este Chartjs foi desenvolvido para facilmente converter em graficos em chartjs as querys de SQL. 
 
   - Roda facilmente em ambiente XAMPP/WAAMP
-  - Facilmente de ser personalizado
+  - Facil de ser personalizado
   - Conexão de banco de dados diretamente no index
 
 # Instalação
