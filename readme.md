@@ -17,7 +17,7 @@ Este Chartjs foi desenvolvido para facilmente converter em graficos em chartjs a
 https://www.apachefriends.org/xampp-files/7.4.13/xampp-windows-x64-7.4.13-1-VC15-installer.exe
 ```
 - A instalação é simplismente "Next>Next>Finish"
-- Após instalação do XAMPP, copie este a pasta deste projeto para:
+- Após instalação do XAMPP, copie a pasta deste projeto para:
 ```sh
 C:\xampp\htdocs
 ```
